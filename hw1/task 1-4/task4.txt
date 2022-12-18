@@ -1,5 +1,0 @@
-first
-third
-result = (14 ; 3)
-fourth
-second
